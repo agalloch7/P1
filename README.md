@@ -1,4 +1,4 @@
-1. live URL:
+1. live URL: p1.yixuanli.me
 2. Making a simple portfolio to present all the projects I'll complete in this course. And make sure Git and server is up and running. 
 3. No demo information for P1
 4. Additional information: Sorry, no credentials ;)
